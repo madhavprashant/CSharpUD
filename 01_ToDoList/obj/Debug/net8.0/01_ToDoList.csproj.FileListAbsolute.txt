@@ -1,0 +1,15 @@
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\bin\Debug\net8.0\01_ToDoList.exe
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\bin\Debug\net8.0\01_ToDoList.deps.json
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\bin\Debug\net8.0\01_ToDoList.runtimeconfig.json
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\bin\Debug\net8.0\01_ToDoList.dll
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\bin\Debug\net8.0\01_ToDoList.pdb
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.AssemblyInfoInputs.cache
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.AssemblyInfo.cs
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.sourcelink.json
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.dll
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\refint\01_ToDoList.dll
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.pdb
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\01_ToDoList.genruntimeconfig.cache
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_ToDoList\obj\Debug\net8.0\ref\01_ToDoList.dll
