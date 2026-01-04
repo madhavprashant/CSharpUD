@@ -1,0 +1,15 @@
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\bin\Debug\net8.0\01_Fundamentals.exe
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\bin\Debug\net8.0\01_Fundamentals.deps.json
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\bin\Debug\net8.0\01_Fundamentals.runtimeconfig.json
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\bin\Debug\net8.0\01_Fundamentals.dll
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\bin\Debug\net8.0\01_Fundamentals.pdb
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.AssemblyInfo.cs
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.sourcelink.json
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.dll
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\refint\01_Fundamentals.dll
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.pdb
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\01_Fundamentals.genruntimeconfig.cache
+C:\Users\prash\source\repos\madhavprashant\CSharpUD\01_Fundamentals\obj\Debug\net8.0\ref\01_Fundamentals.dll
