@@ -11,6 +11,23 @@ string userInput = Console.ReadLine();
 Console.WriteLine("User Input is: " + userInput);
 
 /// <summary> Example of string concatenation </summary>
-var result = "abc"+ "def"+ "ghi";
+//var result = "abc"+ "def"+ "ghi";
 
-Console.ReadKey();
+//var isUserInputABC = userInput == "ABC";
+
+var isUserInputNotABC = userInput != "ABC";     // negation operator flavour 1 is prefered way
+var isUserInputNotABC1 = !(userInput == "ABC"); // negation operator flavour 2
+
+if(userInput.Length < 3)
+{
+    Console.WriteLine("short user Input");
+}
+if(userInput.Length < 10)
+{
+    Console.WriteLine("Medium user Input");
+}
+else
+{
+    Console.WriteLine("User Icnput has exactly 10 characters");  
+}
+Console.ReadKey();     //Come out of program with user input
