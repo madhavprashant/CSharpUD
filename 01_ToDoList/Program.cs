@@ -10,27 +10,33 @@ Console.WriteLine("[E]xit");
 string userInput = Console.ReadLine();
 Console.WriteLine("User Input is: " + userInput);
 
-/// <summary> Example of string concatenation </summary>
-//var result = "abc"+ "def"+ "ghi";
-
-//var isUserInputABC = userInput == "ABC";
-
-var isUserInputNotABC = userInput != "ABC";     // negation operator flavour 1 is prefered way
-var isUserInputNotABC1 = !(userInput == "ABC"); // negation operator flavour 2
-
-if(userInput.Length != 0)
+/// <summary> Simple if else statement to handle user input </summary>
+if (userInput == "S")
 {
-    Console.WriteLine("valid User Input!");
-    int number = 5;
-    string word = "JAN";
-    if (number == 5)
-    {
-        Console.WriteLine("Entered Number is :" + number);
-        Console.WriteLine(userInput);
-    }
+    PrintSelectedOption("Select a TODO");
+}
+else if (userInput == "A")
+{
+    PrintSelectedOption("Add a TODO");
+}
+else if (userInput == "R")
+{
+    PrintSelectedOption("Remove a TODO");
+}
+else if (userInput == "E")
+{  
+    PrintSelectedOption("Exit");
 }
 else
 {
-    Console.WriteLine("User Input is empty: " + userInput);  
+    PrintSelectedOption("Invalid option selected.");
 }
-Console.ReadKey();     //Come out of program with user input
+
+Console.ReadKey();                          //Come out of program with user input
+
+
+/// <summary> Method to print the selected option </summary>
+void PrintSelectedOption(string selectedOption)
+{
+    Console.WriteLine("Selected User Input: " + selectedOption);
+}
