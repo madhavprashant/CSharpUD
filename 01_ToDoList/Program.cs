@@ -18,16 +18,19 @@ Console.WriteLine("User Input is: " + userInput);
 var isUserInputNotABC = userInput != "ABC";     // negation operator flavour 1 is prefered way
 var isUserInputNotABC1 = !(userInput == "ABC"); // negation operator flavour 2
 
-if(userInput.Length < 3)
+if(userInput.Length != 0)
 {
-    Console.WriteLine("short user Input");
-}
-if(userInput.Length < 10)
-{
-    Console.WriteLine("Medium user Input");
+    Console.WriteLine("valid User Input!");
+    int number = 5;
+    string word = "JAN";
+    if (number == 5)
+    {
+        Console.WriteLine("Entered Number is :" + number);
+        Console.WriteLine(userInput);
+    }
 }
 else
 {
-    Console.WriteLine("User Icnput has exactly 10 characters");  
+    Console.WriteLine("User Input is empty: " + userInput);  
 }
 Console.ReadKey();     //Come out of program with user input
