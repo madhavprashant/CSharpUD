@@ -10,30 +10,37 @@ Console.WriteLine("[E]xit");
 string userInput = Console.ReadLine();
 Console.WriteLine("User Input is: " + userInput);
 
+bool isLong = IsLong(userInput);
+
+/// <summary> Method to check if user input length is greater than 1 </summary>
+bool IsLong(string input)
+{
+    return input.Length > 5;
+}
+
 /// <summary> Simple if else statement to handle user input </summary>
-if (userInput == "S")
-{
-    PrintSelectedOption("Select a TODO");
-}
-else if (userInput == "A")
-{
-    PrintSelectedOption("Add a TODO");
-}
-else if (userInput == "R")
-{
-    PrintSelectedOption("Remove a TODO");
-}
-else if (userInput == "E")
-{  
-    PrintSelectedOption("Exit");
-}
-else
-{
-    PrintSelectedOption("Invalid option selected.");
-}
+//if (userInput == "S")
+//{
+//    PrintSelectedOption("Select a TODO");
+//}
+//else if (userInput == "A")
+//{
+//    PrintSelectedOption("Add a TODO");
+//}
+//else if (userInput == "R")
+//{
+//    PrintSelectedOption("Remove a TODO");
+//}
+//else if (userInput == "E")
+//{  
+//    PrintSelectedOption("Exit");
+//}
+//else
+//{
+//    PrintSelectedOption("Invalid option selected.");
+//}
 
-Console.ReadKey();                          //Come out of program with user input
-
+Console.ReadKey();
 
 /// <summary> Method to print the selected option </summary>
 void PrintSelectedOption(string selectedOption)

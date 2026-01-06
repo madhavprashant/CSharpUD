@@ -26,5 +26,12 @@
    - Int Parse methods
    - static typed language vs dynamic typed language
 */
+var result = AddNumbers(5, 10);
+Console.WriteLine("The result of adding two numbers is: " + result);
 
 Console.ReadKey();
+
+int AddNumbers(int a, int b)
+{
+    return a + b;
+}
